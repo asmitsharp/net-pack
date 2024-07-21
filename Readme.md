@@ -75,12 +75,9 @@ Clone the repository:
 ````bash
 git clone https://github.com/ashmitsharp/net-pack.git
 
-```bash
 cd net-pack
 
-```bash
 cd build -o net-pack
 
-```bash
 ./net-pack
 ````
